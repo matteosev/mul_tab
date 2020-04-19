@@ -8,11 +8,9 @@ section .data
     x db " x ", 0
     equal db " = ", 0
     nl db 10                ; ascii code for new line
-    msg db "Please enter an integer between 0 and 9 or a letter.", 0
+    msg db "Please enter an integer between 0 and 9 or a letter.", 10, 0
 
 section .bss
-    ;op1_str resq 1
-    ;op1_int resq 1
     op1 resq 1
     op2 resq 1
     res resq 1
