@@ -12,5 +12,4 @@ Here's the syntax : <pre>./mul_tab [i]</pre>
 With <i>i</i> an integer between 0 and 9.
 
 <h2>Understand the code</h2>
-Very basic, go to my <b>ressources</b> repository to find some documentation on Linux x86_64 assembly.
-<a href="https://github.com/matteosev/ressources/tree/master/assembly">ressources</a>
+Very basic, go to my <a href="https://github.com/matteosev/ressources/tree/master/assembly">ressources</a> repository to find some documentation on Linux x86_64 assembly.
